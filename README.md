@@ -1,5 +1,5 @@
 # Heart-rate-measurement-using-camera
-A slight modification to Habom2310 heart detector using Camera Module
+A slight modification to heart rate detector using Camera Module
 # Abstract
 - Heart Rate (HR) is one of the most important Physiological parameter and a vital indicator of people‘s physiological state
 - A non-contact based system to measure Heart Rate: real-time application using camera
